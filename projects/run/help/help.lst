@@ -1,0 +1,60 @@
+     1 00000000                                 [FORMAT "WCOFF"]
+     2 00000000                                 [INSTRSET "i486p"]
+     3 00000000                                 [OPTIMIZE 1]
+     4 00000000                                 [OPTION 1]
+     5 00000000                                 [BITS 32]
+     6 00000000                                 	EXTERN	__alloca
+     7 00000000                                 	EXTERN	_api_openwin
+     8 00000000                                 	EXTERN	_api_putstrwin
+     9 00000000                                 	EXTERN	_api_getkey
+    10 00000000                                 	EXTERN	_api_end
+    11 00000000                                 [FILE "help.c"]
+    12                                          [SECTION .data]
+    13 00000000                                 LC0:
+    14 00000000 68 65 6C 70 00                  	DB	"help",0x00
+    15 00000005                                 LC1:
+    16 00000005 61 20 62 62 61 6C 6C 20 64 65   	DB	"a bball deepdown calc chklang color gview hello invader iroha lines mmlplay noodle notrec picdata sosu star1 stars tview type walk winhelo",0x00
+       0000000F 65 70 64 6F 77 6E 20 63 61 6C 
+       00000019 63 20 63 68 6B 6C 61 6E 67 20 
+       00000023 63 6F 6C 6F 72 20 67 76 69 65 
+       0000002D 77 20 68 65 6C 6C 6F 20 69 6E 
+       00000037 76 61 64 65 72 20 69 72 6F 68 
+       00000041 61 20 6C 69 6E 65 73 20 6D 6D 
+       0000004B 6C 70 6C 61 79 20 6E 6F 6F 64 
+       00000055 6C 65 20 6E 6F 74 72 65 63 20 
+       0000005F 70 69 63 64 61 74 61 20 73 6F 
+       00000069 73 75 20 73 74 61 72 31 20 73 
+       00000073 74 61 72 73 20 74 76 69 65 77 
+       0000007D 20 74 79 70 65 20 77 61 6C 6B 
+       00000087 20 77 69 6E 68 65 6C 6F 00 
+    17                                          [SECTION .text]
+    18 00000000                                 	GLOBAL	_HariMain
+    19 00000000                                 _HariMain:
+    20 00000000 55                              	PUSH	EBP
+    21 00000001 B8 00004E20                     	MOV	EAX,20000
+    22 00000006 89 E5                           	MOV	EBP,ESP
+    23 00000008 E8 [00000000]                   	CALL	__alloca
+    24 0000000D 68 [00000000]                   	PUSH	LC0
+    25 00000012 6A FF                           	PUSH	-1
+    26 00000014 8D 85 FFFFB1E0                  	LEA	EAX,DWORD [-20000+EBP]
+    27 0000001A 6A 64                           	PUSH	100
+    28 0000001C 68 000000C8                     	PUSH	200
+    29 00000021 50                              	PUSH	EAX
+    30 00000022 E8 [00000000]                   	CALL	_api_openwin
+    31 00000027 68 [00000005]                   	PUSH	LC1
+    32 0000002C 6A 0C                           	PUSH	12
+    33 0000002E 6A 00                           	PUSH	0
+    34 00000030 6A 1C                           	PUSH	28
+    35 00000032 6A 1C                           	PUSH	28
+    36 00000034 50                              	PUSH	EAX
+    37 00000035 E8 [00000000]                   	CALL	_api_putstrwin
+    38 0000003A 83 C4 2C                        	ADD	ESP,44
+    39 0000003D                                 L2:
+    40 0000003D 6A 01                           	PUSH	1
+    41 0000003F E8 [00000000]                   	CALL	_api_getkey
+    42 00000044 5A                              	POP	EDX
+    43 00000045 83 F8 0A                        	CMP	EAX,10
+    44 00000048 75 F3                           	JNE	L2
+    45 0000004A E8 [00000000]                   	CALL	_api_end
+    46 0000004F C9                              	LEAVE
+    47 00000050 C3                              	RET
