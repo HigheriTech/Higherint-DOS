@@ -1,0 +1,188 @@
+﻿HigheriTech许可协议-01  ver.1.0
+                                                   2024.6.30 Alex.Pan
+
+０．概要
+
+  通俗地说：“这是自由软件，使用前使用后都无须支付任何费用，可以自由使用，也可以
+复制、修改，以及用于商业目的，但是作者对软件的bug以及因此所造成的损失不负任何责
+任。”
+
+  为了保护软件使用者以及软件修改者、参考者的利益，即便作者将来为该软件中所使用的
+算法申请专利，也保证不会向使用者收取授权费用。
+
+１．目的
+
+  适用于本协议的软件，旨在为公众带来利益，以及为软件技术的进步做出贡献。
+
+２．宗旨
+
+  本协议并不代表作者放弃著作权（仅放弃独家复制发布的权利），使用者可以自由复制并
+再次发布本软件的一部分甚至全部内容。使用时无须支付任何费用，对本软件的解析、修改
+也无须支付任何费用。
+
+  适用于本协议的软件，可以无条件地用作商业目的，甚至可以将软件直接有偿出售。
+
+  对于以适用于本协议的软件的一部分或全部内容为基础，在此之上所开发的软件（下称“
+派生物”），可以赋予任何种类的许可协议。即，派生物的作者可以禁止对派生物进行复制，
+也可以只允许派生物以有偿形式发布。派生物的著作权属于该派生物的生成者，适用于本协
+议的软件作者不会对其派生物主张著作权。
+
+  在派生物的文档中，没有义务对原始软件的作者进行介绍，但这句话，理所当然地，不意
+味着禁止这一行为。
+
+  在发布派生物时，没有义务取得原始软件作者的同意，但这句话，理所当然地，不意味着
+禁止这一行为。
+
+  作者不对软件的质量作出任何保证，因此，由于使用本软件所造成的损害，或者没有达到
+所期望的结果，作者不负任何责任。
+
+  对于适用于本协议的软件中所使用的技术，除了事先取得作者授权的人以外，禁止其他人
+对其申请专利。但如果附加了新的技术并生成了派生物，允许对于追加的部分申请专利。作
+者在将来有可能对软件中的技术申请专利，但保证不会向派生物以及软件的使用收取授权费
+用。本保证不仅适用于申请专利之前所生成的派生物，也适用于专利取得后所生成的派生物。
+
+  将解析结果汇总并申请专利，需要事先取得作者的同意，但对于申请专利以外的行为，没
+有任何限制。
+
+３．补充
+
+  基本上，作者十分欢迎复制本软件。如果要表示对作者的感谢，请将本软件推荐给更多的
+人，并复制给他们使用。作者希望有更多的人使用本软件，因此对于复制的行为非常支持。
+除此之外，如果可以将使用后的感想发给作者，作者一定会感到更加高兴。
+
+  对于本协议所授权的软件，仅修改著作权信息并再次发布的行为，本协议并没有禁止，而
+是作为派生物来处理。这并不是一个漏洞。因此，如果你认为有必要仅修改著作权信息并再
+次发布本软件，是完全可以这样做的。
+
+  除了修复bug、增加新功能等修改行为以外，对于为代码添加注释增加易读性、对文档进行
+补充等，不会反映在编译产物及运行结果上的修改也同样欢迎。如果生成了这样的派生物，
+欢迎和作者联系（但这并不是义务）。
+
+  如果你有任何疑问，或者对于制作派生物方面感到缺少某些信息，可以向作者提问。但是，
+受作者精力所限可能无法一一进行回复，请大家谅解。对于协议本身漏洞的指摘，请联系作
+者或川合堂。
+
+  也许，对于本协议所授权的软件中所使用的技术，禁止未经作者允许申请专利这一点，和
+日本的专利法是向抵触的（希望大家提出自己的见解）。对此，最初提出本协议的川合秀实
+的见解如下。
+
+  指定专利法的背景，是因为如果发明者为了保护自己发明所带来的利益，而拒绝将发明的
+详情公开，会阻碍科学技术的进步，因此在法律上对于其所公开的内容，在一定时间内给予
+独家使用的保护，这是专利法的精神所在。在本协议中，作者并没有故意隐藏发明的详细内
+容，因此即便禁止对其申请专利我认为也不违背专利法的精神。相反，不理解本协议精神的
+人，如果申请了专利并对原创的软件及派生物收取授权费用，这种担心反倒阻碍了科学技术
+的进步。因此，本协议的目的是事先消除这种担心，我认为和专利法是不抵触的。
+
+  当然，最稳妥的做法是，作者对原创软件中可以被认作发明的全部内容申请并取得专利，
+事前防止其他人来取得相关的专利，但是这对于作者来说负担很大。申请专利的负担和是否
+公开软件内容之间必须要有所取舍的话，可能有些人会放弃公开软件内容。这并不是专利法
+精神所期待的，也不符合我们的目的（参见“１．目的”）。
+
+  此外，当发明的详细内容由于专利法的形式限制没有记述并明确的，由作者以外的人在未
+经许可的情况下将其解析并明确的行为，在本协议中是允许的。对于这部分内容，可以无偿
+公开，也可以有偿出售。
+
+  不过，对于协议所授权的软件中的所有技术，并不能保证在使用时完全避免支付授权费用
+的可能性。如果在发布的时间点仍然有效的专利技术，在软件中被使用的话，该专利的所有
+者可以要求支付授权费用。本协议所保证的不收取专利授权费用，是针对软件内被认为是新
+发明的那一部分技术。
+
+  如果需要将本协议适用于自己开发的软件，在事前事后均无须经过作者同意，可任意使用。
+如果有任何不方便之处，可以对协议文本进行修改。如需修改协议文本，为了避免歧义，请
+同时修改协议的名称。
+
+
+
+
+HigheriTech License Agreement-01 ver.1.0 English Edit(Machine Translation)
+                                                   2024.6.30 Alex.Pan
+
+0. Summary
+
+In layman's terms: "It's free software, you don't have to pay anything before and after using it, you can use it freely, and you can use it freely."
+Copying, modification, and commercial use, but the author is not responsible for any bugs in the software or for any damages caused by them
+Allow. ”
+
+In order to protect the interests of the user of the software, as well as the modifiers and users of the software, even if the author uses the software in the future
+The algorithm is patented, and it is also guaranteed that the user will not be charged a license fee.
+
+1. Purpose
+
+The software to which this Agreement applies is intended to provide benefits to the public and to contribute to the advancement of software technology.
+
+2. Purpose
+
+This agreement does not mean that the author waives the copyright (only the exclusive right to reproduce and publish), and the user is free to copy and combine
+Redistribute some or all of the Software. There is no need to pay any fees for the analysis and modification of this software
+There is no cost to you.
+
+The software applicable to this Agreement may be used for commercial purposes unconditionally, and may even be sold directly for a fee.
+
+For the purposes of the Software developed on the basis of, or in whole of, the Software applicable to this Agreement (hereinafter referred to as the ""
+derivatives"), any kind of license agreement may be granted. i.e., the author of the derivative can prohibit the reproduction of the derivative,
+It is also possible to only allow derivatives to be released in a paid form. The copyright of the derivative belongs to the creator of the derivative and applies to this agreement
+The author of the software does not claim copyright in its derivatives.
+
+In the documentation of Derivation, there is no obligation to introduce the author of the original software, but this sentence, as a matter of course, is not intended
+It means that this behavior is forbidden.
+
+There is no obligation to obtain the consent of the author of the original software when distributing derivatives, but this statement, as a matter of course, does not imply
+This is prohibited.
+
+The author does not make any guarantee as to the quality of the software and, therefore, damages caused by the use of this software, or failure to achieve
+The author is not responsible for the desired results.
+
+The technology used in the software applicable to this Agreement is prohibited from anyone other than those who have obtained prior authorization from the author
+Apply for a patent on it. However, if a new technology is added and a derivative is generated, it is permissible to apply for a patent for the additional part. make
+It is possible to patent the technology in the software in the future, but it guarantees that no license fees will be charged for the derivatives and the use of the software
+Use. This warranty applies not only to derivatives generated before the patent is filed, but also to derivatives generated after the patent has been granted.
+
+It is necessary to obtain the author's consent in advance to compile the analysis results and apply for a patent, but not for acts other than patent applications
+There are any restrictions.
+
+3. Supplements
+
+Basically, the author is very happy to copy this software. If you want to express your gratitude to the author, please recommend this software to more
+people, and copy them for use. The author wants more people to use the software, so he is very supportive of the act of copying.
+In addition, if you can send your impressions to the author, the author will be even happier.
+
+This Agreement does not prohibit the act of modifying the copyright information and republishing the software authorized by this Agreement
+It is treated as a derivative. This is not a vulnerability. Therefore, if you deem it necessary to modify only the copyright information and again
+It is entirely possible to do so when the software is released.
+
+In addition to fixing bugs and adding new features, we also add comments to the code to improve legibility and documentation
+Modifications that will not be reflected in the compilation product and running results are also welcome. If such a derivative is generated,
+You are welcome to contact the author (but this is not obligatory).
+
+If you have any questions, or feel that some information is missing about making derivatives, you can ask the author. But
+Due to the author's limited energy, we may not be able to reply one by one, so please understand. For accusations of vulnerabilities in the protocol itself, please contact us
+or Kawaido.
+
+Perhaps, for the technology used in the software licensed under this agreement, it is forbidden to patent this point without the permission of the author, and
+Japan's patent law is conflicting (I hope you will share your opinions). In this regard, Hidemi Kawai, who originally proposed this agreement
+The insights are as follows.
+
+The background of patent law is specified because if the inventor refuses to invent in order to protect the benefits of his invention
+The disclosure of details will hinder the progress of science and technology, so the content of the disclosure is given within a certain period of time in law
+The protection of exclusive use is the spirit of patent law. In this agreement, the author does not deliberately conceal the details of the invention
+Therefore, even if it were to prohibit the application for a patent, I believe that it would not violate the spirit of the Patent Law. On the contrary, do not understand the spirit of this agreement
+If you apply for a patent and charge a license fee for original software and derivatives, this fear is a hindrance to science and technology
+progress. Therefore, the purpose of this agreement is to dispel such concerns in advance, and I believe that it does not contradict the Patent Law.
+
+Of course, the safest course of action is for the author to apply for and obtain a patent for all parts of the original software that can be considered inventions.
+Prevent others from obtaining the relevant patents in advance, but this is a great burden for the author. The burden of applying for a patent and whether or not
+If there is a trade-off between disclosing software content, some people may abandon disclosing software content. This is not patent law
+What the spirit expects is not in line with our purpose (see "1. Purpose").
+
+In addition, when the details of the invention are not stated and specified due to formal restrictions under the Patent Law, it is not stated by a person other than the author
+The act of interpreting and clarifying it with permission is permitted in this Agreement. For this part of the content, it can be gratuitous
+It can be sold for a fee.
+
+However, for all technologies in the software licensed under the Agreement, there is no guarantee that the license fee will be completely avoided at the time of use
+possibilities. If the patented technology is still valid at the time of release, it is used in the software, and the patent is owned
+may request payment of the authorization fee. This Agreement guarantees no patent license fees and is intended to be new within the Software
+That part of the technology that was invented.
+
+If you need to apply this agreement to your own software, you can use it without the consent of the author, either before or after.
+If there is any inconvenience, the text of the agreement can be modified. If you need to modify the text of the agreement, in order to avoid ambiguity, please:
+Modify the name of the agreement at the same time.
